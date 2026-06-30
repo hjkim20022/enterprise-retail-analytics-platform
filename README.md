@@ -83,7 +83,7 @@ The ingestion pipeline uses:
 
 
 ### Pipeline Success
-![pipeline success](adf/screenshots/06_pipeline_success.png)
+![Pipeline Success](adf/screenshots/06_pipeline_success.png)
 
 
 ## Next Phase
