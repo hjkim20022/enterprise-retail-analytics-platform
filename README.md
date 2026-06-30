@@ -18,6 +18,10 @@ Azure Blob Storage Landing
 → Silver and Gold Tables  
 → Power BI Dashboard
 
+## Solution Architecture
+
+![Architecture](architecture/retail_analytics_architecture.png)
+
 ## Completed So Far
 
 - Created Azure Resource Group, Storage Account, and Blob containers.
