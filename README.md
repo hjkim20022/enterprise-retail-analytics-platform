@@ -9,7 +9,7 @@ End-to-end retail analytics project using Azure Data Factory, Azure Blob Storage
 
 This project demonstrates a metadata-driven data ingestion pipeline for a retail analytics platform. Azure Data Factory is used to orchestrate ingestion of multiple CSV files from Azure Blob Storage Landing into a Bronze container using Lookup, ForEach, Copy Data activities, and parameterized datasets.
 
-## Solution Architecture
+## Solution Architecture 
 
 Azure Blob Storage Landing  
 → Azure Data Factory  
