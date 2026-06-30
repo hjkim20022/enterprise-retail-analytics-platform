@@ -82,8 +82,8 @@ The ingestion pipeline uses:
 ![Copy Sink](adf/screenshots/05_copy_sink.png)
 
 
-### pipeline Success
-![pipeline Success](adf/screenshots/06_pipeline_success.png)
+### Pipeline Success
+![pipeline success](adf/screenshots/06_pipeline_success.png)
 
 
 ## Next Phase
