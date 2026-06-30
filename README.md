@@ -65,20 +65,26 @@ The ingestion pipeline uses:
 ### Pipeline Overview
 ![Pipeline Overview](adf/screenshots/01_pipeline_overview.png)
 
+
 ### Lookup Activity
 ![Lookup Activity](adf/screenshots/02_lookup_activity.png)
+
 
 ### ForEach Settings
 ![ForEach Settings](adf/screenshots/03_foreach_settings.png)
 
+
 ### Copy Source
 ![Copy Source](adf/screenshots/04_copy_source.png)
+
 
 ### Copy Sink
 ![Copy Sink](adf/screenshots/05_copy_sink.png)
 
-### Pipeline Success
+
+### pipeline Success
 ![Pipeline Success](adf/screenshots/06_pipeline_success.png)
+
 
 ## Next Phase
 
