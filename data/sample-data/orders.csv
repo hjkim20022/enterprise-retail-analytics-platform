@@ -1,0 +1,501 @@
+OrderID,OrderDate,CustomerID,SalesChannel,PaymentMethod,OrderStatus,SalesPerson
+ORD00001,2025-04-11,CUST0040,Store,Gift Card,Cancelled,R. Singh
+ORD00002,2025-01-08,CUST0083,Partner,Debit Card,Completed,A. Lee
+ORD00003,2025-02-22,CUST0042,Online,Credit Card,Completed,R. Singh
+ORD00004,2025-03-01,CUST0041,Partner,Credit Card,Completed,J. Kim
+ORD00005,2025-04-18,CUST0006,Online,Credit Card,Completed,S. Patel
+ORD00006,2025-01-05,CUST0052,Online,Debit Card,Completed,S. Patel
+ORD00007,2025-04-13,CUST0026,Online,Debit Card,Returned,R. Singh
+ORD00008,2025-01-06,CUST0064,Online,PayPal,Completed,M. Chen
+ORD00009,2025-04-19,CUST0098,Online,Credit Card,Completed,S. Patel
+ORD00010,2025-04-26,CUST0059,Store,PayPal,Completed,R. Singh
+ORD00011,2025-04-04,CUST0056,Store,PayPal,Completed,J. Kim
+ORD00012,2025-02-16,CUST0059,Partner,Credit Card,Completed,R. Singh
+ORD00013,2025-04-09,CUST0070,Online,PayPal,Completed,S. Patel
+ORD00014,2025-02-24,CUST0033,Store,Credit Card,Completed,J. Kim
+ORD00015,2025-06-17,CUST0053,Online,Credit Card,Completed,R. Singh
+ORD00016,2025-02-21,CUST0022,Online,Debit Card,Returned,A. Lee
+ORD00017,2025-05-24,CUST0021,Online,Credit Card,Completed,J. Kim
+ORD00018,2025-01-13,CUST0070,Online,Debit Card,Completed,A. Lee
+ORD00019,2025-04-24,CUST0070,Store,Debit Card,Completed,M. Chen
+ORD00020,2025-05-04,CUST0004,Store,Debit Card,Returned,J. Kim
+ORD00021,2025-04-16,CUST0094,Online,Credit Card,Returned,A. Lee
+ORD00022,2025-06-07,CUST0075,Online,Credit Card,Completed,S. Patel
+ORD00023,2025-05-27,CUST0062,Online,Debit Card,Completed,S. Patel
+ORD00024,2025-05-25,CUST0062,Online,Credit Card,Completed,M. Chen
+ORD00025,2025-04-30,CUST0094,Partner,Credit Card,Completed,J. Kim
+ORD00026,2025-03-04,CUST0095,Online,Credit Card,Completed,J. Kim
+ORD00027,2025-01-19,CUST0024,Online,Debit Card,Completed,J. Kim
+ORD00028,2025-04-02,CUST0055,Online,Credit Card,Returned,M. Chen
+ORD00029,2025-02-27,CUST0009,Store,Debit Card,Completed,J. Kim
+ORD00030,2025-03-31,CUST0003,Partner,Debit Card,Completed,S. Patel
+ORD00031,2025-04-27,CUST0031,Store,Credit Card,Completed,A. Lee
+ORD00032,2025-03-03,CUST0040,Store,Credit Card,Completed,S. Patel
+ORD00033,2025-01-23,CUST0036,Online,Gift Card,Completed,S. Patel
+ORD00034,2025-05-07,CUST0024,Online,PayPal,Completed,A. Lee
+ORD00035,2025-05-17,CUST0095,Partner,PayPal,Completed,S. Patel
+ORD00036,2025-05-20,CUST0006,Store,PayPal,Completed,M. Chen
+ORD00037,2025-05-09,CUST0066,Store,Credit Card,Cancelled,A. Lee
+ORD00038,2025-02-27,CUST0084,Store,Credit Card,Completed,S. Patel
+ORD00039,2025-05-02,CUST0092,Store,Credit Card,Completed,R. Singh
+ORD00040,2025-01-01,CUST0075,Store,Credit Card,Completed,S. Patel
+ORD00041,2025-02-03,CUST0004,Partner,Credit Card,Completed,M. Chen
+ORD00042,2025-04-06,CUST0079,Partner,Credit Card,Completed,J. Kim
+ORD00043,2025-05-06,CUST0006,Store,Credit Card,Completed,S. Patel
+ORD00044,2025-04-28,CUST0094,Store,Debit Card,Completed,J. Kim
+ORD00045,2025-02-17,CUST0051,Online,Debit Card,Completed,R. Singh
+ORD00046,2025-03-30,CUST0062,Store,Credit Card,Completed,S. Patel
+ORD00047,2025-04-27,CUST0057,Online,PayPal,Completed,A. Lee
+ORD00048,2025-05-09,CUST0066,Store,Credit Card,Completed,J. Kim
+ORD00049,2025-01-16,CUST0079,Partner,PayPal,Completed,R. Singh
+ORD00050,2025-03-10,CUST0075,Store,Credit Card,Completed,A. Lee
+ORD00051,2025-01-22,CUST0008,Online,Gift Card,Completed,A. Lee
+ORD00052,2025-04-03,CUST0026,Online,Debit Card,Completed,A. Lee
+ORD00053,2025-03-17,CUST0051,Online,Credit Card,Completed,A. Lee
+ORD00054,2025-06-03,CUST0045,Store,Credit Card,Completed,S. Patel
+ORD00055,2025-05-24,CUST0044,Online,Credit Card,Completed,S. Patel
+ORD00056,2025-06-28,CUST0005,Online,Credit Card,Completed,S. Patel
+ORD00057,2025-03-27,CUST0070,Online,Credit Card,Completed,R. Singh
+ORD00058,2025-01-29,CUST0026,Store,Debit Card,Completed,R. Singh
+ORD00059,2025-03-10,CUST0068,Store,Credit Card,Completed,R. Singh
+ORD00060,2025-02-16,CUST0019,Online,Debit Card,Completed,M. Chen
+ORD00061,2025-04-04,CUST0084,Online,PayPal,Cancelled,R. Singh
+ORD00062,2025-05-24,CUST0097,Online,Credit Card,Completed,S. Patel
+ORD00063,2025-06-25,CUST0020,Store,Debit Card,Completed,S. Patel
+ORD00064,2025-03-26,CUST0012,Store,Credit Card,Completed,M. Chen
+ORD00065,2025-02-08,CUST0047,Online,Debit Card,Completed,M. Chen
+ORD00066,2025-04-10,CUST0001,Store,Credit Card,Completed,R. Singh
+ORD00067,2025-02-02,CUST0090,Online,Gift Card,Returned,J. Kim
+ORD00068,2025-04-11,CUST0014,Store,PayPal,Cancelled,M. Chen
+ORD00069,2025-01-23,CUST0064,Online,Credit Card,Completed,A. Lee
+ORD00070,2025-01-10,CUST0038,Online,Credit Card,Completed,S. Patel
+ORD00071,2025-03-10,CUST0037,Online,PayPal,Completed,A. Lee
+ORD00072,2025-04-10,CUST0011,Store,Debit Card,Completed,S. Patel
+ORD00073,2025-02-03,CUST0100,Store,Credit Card,Completed,S. Patel
+ORD00074,2025-06-29,CUST0077,Online,Credit Card,Completed,M. Chen
+ORD00075,2025-05-18,CUST0003,Store,Debit Card,Completed,M. Chen
+ORD00076,2025-05-27,CUST0033,Store,Credit Card,Cancelled,A. Lee
+ORD00077,2025-04-06,CUST0006,Online,PayPal,Completed,S. Patel
+ORD00078,2025-01-01,CUST0050,Online,Credit Card,Completed,A. Lee
+ORD00079,2025-03-10,CUST0010,Store,Credit Card,Completed,J. Kim
+ORD00080,2025-01-04,CUST0005,Online,PayPal,Completed,A. Lee
+ORD00081,2025-01-16,CUST0023,Online,Credit Card,Completed,R. Singh
+ORD00082,2025-01-24,CUST0010,Partner,Credit Card,Completed,A. Lee
+ORD00083,2025-03-21,CUST0044,Online,Credit Card,Completed,R. Singh
+ORD00084,2025-01-02,CUST0002,Online,Credit Card,Completed,R. Singh
+ORD00085,2025-05-08,CUST0013,Online,Debit Card,Completed,R. Singh
+ORD00086,2025-06-09,CUST0040,Partner,Credit Card,Completed,J. Kim
+ORD00087,2025-03-25,CUST0002,Online,Debit Card,Completed,A. Lee
+ORD00088,2025-06-01,CUST0084,Online,Debit Card,Completed,A. Lee
+ORD00089,2025-05-20,CUST0065,Online,Debit Card,Completed,J. Kim
+ORD00090,2025-06-27,CUST0063,Online,Credit Card,Completed,S. Patel
+ORD00091,2025-06-12,CUST0073,Online,Credit Card,Completed,M. Chen
+ORD00092,2025-05-04,CUST0017,Online,PayPal,Completed,A. Lee
+ORD00093,2025-02-02,CUST0009,Store,Debit Card,Completed,M. Chen
+ORD00094,2025-06-10,CUST0075,Online,Debit Card,Completed,J. Kim
+ORD00095,2025-06-28,CUST0015,Online,Credit Card,Completed,S. Patel
+ORD00096,2025-06-20,CUST0024,Online,Credit Card,Completed,S. Patel
+ORD00097,2025-04-11,CUST0038,Online,Debit Card,Cancelled,S. Patel
+ORD00098,2025-01-12,CUST0035,Online,PayPal,Completed,J. Kim
+ORD00099,2025-03-08,CUST0094,Store,Debit Card,Completed,R. Singh
+ORD00100,2025-03-06,CUST0095,Online,PayPal,Completed,R. Singh
+ORD00101,2025-06-10,CUST0049,Online,Debit Card,Completed,M. Chen
+ORD00102,2025-06-17,CUST0069,Online,Credit Card,Completed,R. Singh
+ORD00103,2025-03-15,CUST0062,Store,Credit Card,Completed,R. Singh
+ORD00104,2025-02-12,CUST0060,Store,Credit Card,Completed,S. Patel
+ORD00105,2025-02-13,CUST0050,Store,Credit Card,Completed,S. Patel
+ORD00106,2025-01-29,CUST0078,Online,PayPal,Completed,M. Chen
+ORD00107,2025-05-21,CUST0075,Partner,Credit Card,Completed,A. Lee
+ORD00108,2025-01-12,CUST0009,Online,Credit Card,Completed,M. Chen
+ORD00109,2025-04-05,CUST0034,Online,Credit Card,Completed,M. Chen
+ORD00110,2025-02-15,CUST0076,Online,Credit Card,Returned,J. Kim
+ORD00111,2025-05-10,CUST0099,Online,Credit Card,Completed,J. Kim
+ORD00112,2025-02-04,CUST0035,Partner,Credit Card,Completed,M. Chen
+ORD00113,2025-03-22,CUST0001,Store,Debit Card,Completed,M. Chen
+ORD00114,2025-03-31,CUST0040,Online,Credit Card,Completed,M. Chen
+ORD00115,2025-01-08,CUST0064,Store,Debit Card,Completed,R. Singh
+ORD00116,2025-04-03,CUST0022,Partner,Credit Card,Completed,J. Kim
+ORD00117,2025-06-03,CUST0060,Store,Credit Card,Completed,M. Chen
+ORD00118,2025-03-31,CUST0064,Store,Credit Card,Completed,S. Patel
+ORD00119,2025-06-11,CUST0093,Partner,Debit Card,Completed,S. Patel
+ORD00120,2025-04-25,CUST0072,Partner,Debit Card,Completed,R. Singh
+ORD00121,2025-04-15,CUST0011,Store,Credit Card,Completed,R. Singh
+ORD00122,2025-05-15,CUST0014,Online,Credit Card,Completed,A. Lee
+ORD00123,2025-02-27,CUST0060,Online,Debit Card,Completed,A. Lee
+ORD00124,2025-04-24,CUST0030,Store,Credit Card,Completed,A. Lee
+ORD00125,2025-03-16,CUST0035,Online,Credit Card,Completed,R. Singh
+ORD00126,2025-06-06,CUST0085,Store,PayPal,Completed,R. Singh
+ORD00127,2025-04-30,CUST0037,Online,Debit Card,Completed,R. Singh
+ORD00128,2025-06-13,CUST0005,Online,Credit Card,Completed,S. Patel
+ORD00129,2025-01-21,CUST0083,Online,PayPal,Completed,R. Singh
+ORD00130,2025-06-13,CUST0078,Online,Debit Card,Completed,S. Patel
+ORD00131,2025-05-18,CUST0026,Partner,Credit Card,Completed,A. Lee
+ORD00132,2025-04-11,CUST0062,Store,Debit Card,Completed,A. Lee
+ORD00133,2025-06-01,CUST0004,Store,Debit Card,Completed,A. Lee
+ORD00134,2025-06-26,CUST0089,Store,Credit Card,Completed,M. Chen
+ORD00135,2025-04-09,CUST0042,Online,Credit Card,Completed,M. Chen
+ORD00136,2025-02-05,CUST0089,Online,Credit Card,Completed,J. Kim
+ORD00137,2025-04-06,CUST0018,Store,Debit Card,Completed,J. Kim
+ORD00138,2025-06-01,CUST0040,Online,Credit Card,Completed,J. Kim
+ORD00139,2025-05-31,CUST0072,Online,PayPal,Completed,M. Chen
+ORD00140,2025-02-06,CUST0039,Online,Debit Card,Completed,M. Chen
+ORD00141,2025-01-12,CUST0014,Online,Credit Card,Completed,J. Kim
+ORD00142,2025-04-23,CUST0032,Partner,Debit Card,Completed,J. Kim
+ORD00143,2025-01-13,CUST0051,Store,Credit Card,Completed,R. Singh
+ORD00144,2025-01-23,CUST0038,Online,Debit Card,Completed,J. Kim
+ORD00145,2025-04-09,CUST0097,Store,Debit Card,Completed,R. Singh
+ORD00146,2025-04-15,CUST0023,Store,Credit Card,Completed,S. Patel
+ORD00147,2025-01-30,CUST0063,Online,Credit Card,Completed,M. Chen
+ORD00148,2025-01-17,CUST0015,Store,Credit Card,Completed,J. Kim
+ORD00149,2025-04-23,CUST0097,Store,Credit Card,Completed,M. Chen
+ORD00150,2025-03-03,CUST0025,Online,Credit Card,Completed,M. Chen
+ORD00151,2025-03-25,CUST0017,Online,Credit Card,Cancelled,M. Chen
+ORD00152,2025-04-22,CUST0097,Online,Gift Card,Completed,S. Patel
+ORD00153,2025-03-27,CUST0066,Online,Credit Card,Completed,A. Lee
+ORD00154,2025-05-21,CUST0078,Online,Credit Card,Completed,J. Kim
+ORD00155,2025-01-19,CUST0053,Store,Debit Card,Completed,A. Lee
+ORD00156,2025-06-26,CUST0051,Online,Credit Card,Cancelled,A. Lee
+ORD00157,2025-04-10,CUST0039,Online,Gift Card,Completed,A. Lee
+ORD00158,2025-05-20,CUST0051,Partner,Debit Card,Completed,M. Chen
+ORD00159,2025-05-27,CUST0070,Store,Debit Card,Completed,R. Singh
+ORD00160,2025-03-17,CUST0006,Online,Credit Card,Completed,M. Chen
+ORD00161,2025-01-09,CUST0067,Online,Credit Card,Cancelled,M. Chen
+ORD00162,2025-01-28,CUST0007,Online,Credit Card,Cancelled,A. Lee
+ORD00163,2025-05-08,CUST0051,Store,PayPal,Completed,M. Chen
+ORD00164,2025-02-21,CUST0072,Online,Credit Card,Completed,A. Lee
+ORD00165,2025-03-24,CUST0042,Online,Credit Card,Completed,R. Singh
+ORD00166,2025-04-21,CUST0064,Partner,Gift Card,Completed,J. Kim
+ORD00167,2025-05-24,CUST0015,Online,Credit Card,Completed,A. Lee
+ORD00168,2025-04-27,CUST0029,Store,Credit Card,Completed,R. Singh
+ORD00169,2025-03-10,CUST0033,Partner,Credit Card,Completed,J. Kim
+ORD00170,2025-04-09,CUST0094,Online,Gift Card,Completed,S. Patel
+ORD00171,2025-05-20,CUST0027,Store,Credit Card,Cancelled,A. Lee
+ORD00172,2025-01-25,CUST0036,Online,Debit Card,Completed,A. Lee
+ORD00173,2025-06-29,CUST0029,Partner,Debit Card,Completed,S. Patel
+ORD00174,2025-05-03,CUST0038,Store,Credit Card,Returned,S. Patel
+ORD00175,2025-02-22,CUST0057,Store,Debit Card,Completed,A. Lee
+ORD00176,2025-05-31,CUST0097,Online,Credit Card,Completed,S. Patel
+ORD00177,2025-05-24,CUST0027,Store,Credit Card,Cancelled,M. Chen
+ORD00178,2025-02-26,CUST0055,Store,Debit Card,Returned,J. Kim
+ORD00179,2025-02-08,CUST0033,Online,PayPal,Completed,J. Kim
+ORD00180,2025-04-19,CUST0068,Store,Debit Card,Completed,J. Kim
+ORD00181,2025-06-30,CUST0086,Online,Credit Card,Completed,M. Chen
+ORD00182,2025-02-11,CUST0066,Online,Credit Card,Completed,S. Patel
+ORD00183,2025-06-16,CUST0010,Online,Credit Card,Completed,R. Singh
+ORD00184,2025-05-22,CUST0005,Online,Credit Card,Completed,S. Patel
+ORD00185,2025-05-02,CUST0074,Online,Credit Card,Completed,A. Lee
+ORD00186,2025-05-13,CUST0097,Partner,Credit Card,Completed,J. Kim
+ORD00187,2025-06-12,CUST0038,Online,Credit Card,Completed,S. Patel
+ORD00188,2025-03-16,CUST0013,Store,Credit Card,Completed,R. Singh
+ORD00189,2025-05-26,CUST0031,Online,Credit Card,Completed,A. Lee
+ORD00190,2025-03-17,CUST0047,Store,Credit Card,Returned,M. Chen
+ORD00191,2025-01-09,CUST0100,Partner,PayPal,Completed,M. Chen
+ORD00192,2025-03-15,CUST0088,Online,Credit Card,Completed,R. Singh
+ORD00193,2025-05-25,CUST0052,Store,PayPal,Completed,A. Lee
+ORD00194,2025-01-07,CUST0056,Online,PayPal,Completed,J. Kim
+ORD00195,2025-06-23,CUST0015,Store,Credit Card,Completed,S. Patel
+ORD00196,2025-05-21,CUST0029,Online,Debit Card,Completed,A. Lee
+ORD00197,2025-06-17,CUST0008,Partner,Debit Card,Completed,M. Chen
+ORD00198,2025-06-19,CUST0005,Online,Debit Card,Completed,R. Singh
+ORD00199,2025-05-17,CUST0029,Store,Credit Card,Completed,R. Singh
+ORD00200,2025-06-27,CUST0047,Store,Credit Card,Completed,S. Patel
+ORD00201,2025-01-27,CUST0068,Online,Credit Card,Completed,R. Singh
+ORD00202,2025-05-02,CUST0076,Online,Credit Card,Completed,R. Singh
+ORD00203,2025-01-05,CUST0045,Online,Debit Card,Completed,A. Lee
+ORD00204,2025-01-29,CUST0002,Online,Debit Card,Completed,J. Kim
+ORD00205,2025-06-14,CUST0027,Store,Credit Card,Completed,S. Patel
+ORD00206,2025-06-15,CUST0095,Online,Debit Card,Completed,A. Lee
+ORD00207,2025-03-24,CUST0036,Online,Credit Card,Completed,J. Kim
+ORD00208,2025-05-16,CUST0036,Online,Credit Card,Cancelled,A. Lee
+ORD00209,2025-04-19,CUST0026,Store,PayPal,Completed,A. Lee
+ORD00210,2025-03-06,CUST0043,Online,Credit Card,Completed,R. Singh
+ORD00211,2025-03-27,CUST0027,Online,Credit Card,Completed,J. Kim
+ORD00212,2025-05-25,CUST0069,Online,Credit Card,Completed,S. Patel
+ORD00213,2025-03-12,CUST0020,Online,Credit Card,Completed,S. Patel
+ORD00214,2025-02-14,CUST0011,Store,Gift Card,Completed,J. Kim
+ORD00215,2025-05-12,CUST0074,Online,Debit Card,Completed,R. Singh
+ORD00216,2025-02-05,CUST0038,Online,PayPal,Completed,M. Chen
+ORD00217,2025-03-11,CUST0006,Store,Debit Card,Completed,A. Lee
+ORD00218,2025-06-08,CUST0072,Store,Credit Card,Completed,R. Singh
+ORD00219,2025-01-19,CUST0023,Online,Credit Card,Returned,J. Kim
+ORD00220,2025-04-18,CUST0047,Store,Debit Card,Completed,A. Lee
+ORD00221,2025-06-16,CUST0090,Partner,Credit Card,Completed,S. Patel
+ORD00222,2025-04-01,CUST0046,Online,PayPal,Completed,M. Chen
+ORD00223,2025-03-31,CUST0012,Store,PayPal,Completed,S. Patel
+ORD00224,2025-01-19,CUST0090,Store,Credit Card,Completed,J. Kim
+ORD00225,2025-02-08,CUST0013,Online,Gift Card,Completed,A. Lee
+ORD00226,2025-05-06,CUST0062,Online,PayPal,Completed,J. Kim
+ORD00227,2025-06-22,CUST0082,Online,Debit Card,Completed,A. Lee
+ORD00228,2025-05-21,CUST0089,Store,Credit Card,Completed,R. Singh
+ORD00229,2025-05-06,CUST0097,Partner,Credit Card,Completed,M. Chen
+ORD00230,2025-02-27,CUST0060,Store,Credit Card,Completed,R. Singh
+ORD00231,2025-05-28,CUST0043,Online,Credit Card,Completed,R. Singh
+ORD00232,2025-03-02,CUST0076,Store,Credit Card,Completed,J. Kim
+ORD00233,2025-05-07,CUST0100,Store,Debit Card,Completed,M. Chen
+ORD00234,2025-04-15,CUST0068,Online,Credit Card,Completed,A. Lee
+ORD00235,2025-06-16,CUST0005,Online,Debit Card,Completed,A. Lee
+ORD00236,2025-01-01,CUST0037,Store,PayPal,Completed,S. Patel
+ORD00237,2025-05-11,CUST0072,Online,PayPal,Completed,A. Lee
+ORD00238,2025-04-02,CUST0092,Store,Credit Card,Completed,J. Kim
+ORD00239,2025-04-23,CUST0031,Online,PayPal,Cancelled,R. Singh
+ORD00240,2025-06-02,CUST0009,Online,Credit Card,Completed,R. Singh
+ORD00241,2025-02-25,CUST0051,Online,Credit Card,Completed,R. Singh
+ORD00242,2025-06-10,CUST0029,Online,Debit Card,Cancelled,M. Chen
+ORD00243,2025-06-15,CUST0078,Partner,Credit Card,Completed,A. Lee
+ORD00244,2025-04-27,CUST0040,Online,Credit Card,Completed,J. Kim
+ORD00245,2025-05-14,CUST0041,Store,Debit Card,Completed,M. Chen
+ORD00246,2025-02-27,CUST0086,Online,Credit Card,Cancelled,S. Patel
+ORD00247,2025-02-13,CUST0011,Store,Credit Card,Completed,J. Kim
+ORD00248,2025-06-22,CUST0023,Online,Credit Card,Completed,J. Kim
+ORD00249,2025-06-09,CUST0001,Store,Debit Card,Completed,J. Kim
+ORD00250,2025-06-22,CUST0046,Store,Debit Card,Completed,R. Singh
+ORD00251,2025-03-02,CUST0021,Online,Credit Card,Completed,J. Kim
+ORD00252,2025-02-16,CUST0090,Online,Credit Card,Completed,A. Lee
+ORD00253,2025-05-29,CUST0036,Store,Credit Card,Completed,J. Kim
+ORD00254,2025-03-21,CUST0054,Partner,Credit Card,Completed,R. Singh
+ORD00255,2025-04-28,CUST0087,Online,Debit Card,Completed,J. Kim
+ORD00256,2025-06-13,CUST0057,Store,Credit Card,Completed,S. Patel
+ORD00257,2025-05-27,CUST0001,Partner,Credit Card,Completed,S. Patel
+ORD00258,2025-01-20,CUST0063,Store,Debit Card,Completed,R. Singh
+ORD00259,2025-05-26,CUST0054,Partner,Debit Card,Completed,A. Lee
+ORD00260,2025-02-16,CUST0055,Store,Debit Card,Completed,A. Lee
+ORD00261,2025-02-18,CUST0040,Online,Credit Card,Completed,M. Chen
+ORD00262,2025-01-14,CUST0015,Online,Credit Card,Completed,R. Singh
+ORD00263,2025-05-23,CUST0021,Online,Credit Card,Completed,J. Kim
+ORD00264,2025-06-08,CUST0047,Store,Credit Card,Completed,R. Singh
+ORD00265,2025-01-01,CUST0073,Store,Debit Card,Completed,M. Chen
+ORD00266,2025-04-27,CUST0053,Online,PayPal,Completed,R. Singh
+ORD00267,2025-02-23,CUST0009,Store,Debit Card,Completed,R. Singh
+ORD00268,2025-04-28,CUST0074,Store,Debit Card,Completed,M. Chen
+ORD00269,2025-01-03,CUST0052,Store,Credit Card,Completed,A. Lee
+ORD00270,2025-05-24,CUST0057,Online,Debit Card,Cancelled,J. Kim
+ORD00271,2025-01-12,CUST0026,Online,Credit Card,Completed,M. Chen
+ORD00272,2025-03-15,CUST0041,Online,Credit Card,Completed,S. Patel
+ORD00273,2025-01-16,CUST0035,Online,Credit Card,Completed,A. Lee
+ORD00274,2025-04-12,CUST0063,Online,Credit Card,Completed,S. Patel
+ORD00275,2025-06-01,CUST0025,Online,Credit Card,Completed,A. Lee
+ORD00276,2025-06-05,CUST0090,Online,Gift Card,Completed,J. Kim
+ORD00277,2025-04-27,CUST0075,Online,Credit Card,Completed,J. Kim
+ORD00278,2025-01-08,CUST0038,Online,Credit Card,Completed,R. Singh
+ORD00279,2025-05-02,CUST0002,Store,Credit Card,Completed,S. Patel
+ORD00280,2025-04-02,CUST0007,Online,Debit Card,Completed,A. Lee
+ORD00281,2025-06-13,CUST0082,Partner,Debit Card,Completed,J. Kim
+ORD00282,2025-03-31,CUST0091,Partner,Debit Card,Completed,M. Chen
+ORD00283,2025-05-16,CUST0034,Online,Credit Card,Completed,J. Kim
+ORD00284,2025-03-01,CUST0091,Online,Debit Card,Completed,M. Chen
+ORD00285,2025-06-27,CUST0017,Online,Credit Card,Completed,A. Lee
+ORD00286,2025-01-28,CUST0043,Store,PayPal,Completed,J. Kim
+ORD00287,2025-04-11,CUST0059,Store,Debit Card,Completed,J. Kim
+ORD00288,2025-02-10,CUST0051,Online,Credit Card,Returned,A. Lee
+ORD00289,2025-06-04,CUST0054,Store,Credit Card,Completed,J. Kim
+ORD00290,2025-05-25,CUST0024,Online,Credit Card,Completed,M. Chen
+ORD00291,2025-06-10,CUST0025,Online,Credit Card,Completed,J. Kim
+ORD00292,2025-06-06,CUST0071,Store,Credit Card,Returned,S. Patel
+ORD00293,2025-05-21,CUST0052,Online,Debit Card,Completed,R. Singh
+ORD00294,2025-02-15,CUST0070,Store,Credit Card,Completed,M. Chen
+ORD00295,2025-02-04,CUST0088,Online,Credit Card,Completed,S. Patel
+ORD00296,2025-05-14,CUST0033,Partner,Credit Card,Completed,A. Lee
+ORD00297,2025-03-23,CUST0049,Online,Credit Card,Completed,M. Chen
+ORD00298,2025-04-25,CUST0029,Online,PayPal,Returned,R. Singh
+ORD00299,2025-02-16,CUST0063,Store,Credit Card,Completed,R. Singh
+ORD00300,2025-06-02,CUST0022,Online,Debit Card,Completed,A. Lee
+ORD00301,2025-01-10,CUST0026,Partner,PayPal,Completed,A. Lee
+ORD00302,2025-02-25,CUST0028,Store,Debit Card,Completed,M. Chen
+ORD00303,2025-01-30,CUST0085,Store,PayPal,Completed,J. Kim
+ORD00304,2025-04-19,CUST0049,Store,Credit Card,Completed,A. Lee
+ORD00305,2025-01-05,CUST0071,Partner,Gift Card,Completed,J. Kim
+ORD00306,2025-04-29,CUST0081,Partner,Credit Card,Cancelled,S. Patel
+ORD00307,2025-02-02,CUST0084,Store,Credit Card,Completed,R. Singh
+ORD00308,2025-04-28,CUST0049,Store,Debit Card,Completed,J. Kim
+ORD00309,2025-03-06,CUST0020,Online,PayPal,Completed,R. Singh
+ORD00310,2025-05-26,CUST0086,Online,PayPal,Cancelled,J. Kim
+ORD00311,2025-06-26,CUST0092,Store,Credit Card,Completed,S. Patel
+ORD00312,2025-01-11,CUST0063,Online,Credit Card,Completed,A. Lee
+ORD00313,2025-03-26,CUST0061,Online,PayPal,Completed,S. Patel
+ORD00314,2025-01-26,CUST0049,Online,Credit Card,Completed,A. Lee
+ORD00315,2025-03-04,CUST0071,Online,Debit Card,Completed,A. Lee
+ORD00316,2025-03-27,CUST0001,Store,PayPal,Completed,R. Singh
+ORD00317,2025-02-28,CUST0096,Partner,Credit Card,Returned,S. Patel
+ORD00318,2025-01-27,CUST0013,Online,Credit Card,Completed,J. Kim
+ORD00319,2025-06-26,CUST0094,Online,Credit Card,Completed,S. Patel
+ORD00320,2025-06-10,CUST0087,Store,Credit Card,Completed,R. Singh
+ORD00321,2025-04-08,CUST0051,Online,PayPal,Completed,A. Lee
+ORD00322,2025-04-15,CUST0056,Store,Credit Card,Completed,R. Singh
+ORD00323,2025-04-09,CUST0083,Online,PayPal,Completed,M. Chen
+ORD00324,2025-05-09,CUST0062,Online,Credit Card,Completed,M. Chen
+ORD00325,2025-05-29,CUST0032,Partner,Gift Card,Completed,J. Kim
+ORD00326,2025-02-24,CUST0030,Online,Credit Card,Completed,R. Singh
+ORD00327,2025-01-06,CUST0029,Store,Credit Card,Completed,J. Kim
+ORD00328,2025-04-05,CUST0049,Store,Credit Card,Completed,J. Kim
+ORD00329,2025-05-13,CUST0045,Online,Debit Card,Completed,M. Chen
+ORD00330,2025-04-12,CUST0093,Store,Debit Card,Completed,J. Kim
+ORD00331,2025-01-03,CUST0030,Partner,PayPal,Completed,M. Chen
+ORD00332,2025-06-30,CUST0016,Online,Credit Card,Completed,A. Lee
+ORD00333,2025-01-23,CUST0040,Store,Credit Card,Completed,R. Singh
+ORD00334,2025-02-22,CUST0019,Store,Credit Card,Completed,J. Kim
+ORD00335,2025-06-14,CUST0018,Store,Credit Card,Completed,M. Chen
+ORD00336,2025-03-24,CUST0001,Store,Credit Card,Completed,S. Patel
+ORD00337,2025-05-25,CUST0078,Online,Gift Card,Completed,J. Kim
+ORD00338,2025-03-26,CUST0047,Partner,Gift Card,Completed,A. Lee
+ORD00339,2025-03-19,CUST0066,Partner,PayPal,Completed,A. Lee
+ORD00340,2025-04-20,CUST0092,Store,Debit Card,Completed,S. Patel
+ORD00341,2025-01-01,CUST0094,Store,Credit Card,Completed,M. Chen
+ORD00342,2025-02-20,CUST0038,Store,Credit Card,Completed,J. Kim
+ORD00343,2025-06-22,CUST0051,Online,Credit Card,Completed,M. Chen
+ORD00344,2025-01-04,CUST0063,Store,PayPal,Completed,A. Lee
+ORD00345,2025-04-23,CUST0004,Store,Credit Card,Completed,M. Chen
+ORD00346,2025-02-01,CUST0001,Store,Credit Card,Completed,A. Lee
+ORD00347,2025-02-03,CUST0008,Store,Credit Card,Completed,M. Chen
+ORD00348,2025-04-02,CUST0029,Online,Credit Card,Completed,S. Patel
+ORD00349,2025-04-05,CUST0055,Online,PayPal,Returned,R. Singh
+ORD00350,2025-03-13,CUST0003,Online,Debit Card,Completed,S. Patel
+ORD00351,2025-02-08,CUST0032,Online,Credit Card,Completed,S. Patel
+ORD00352,2025-06-03,CUST0010,Store,Gift Card,Completed,R. Singh
+ORD00353,2025-06-11,CUST0074,Store,Debit Card,Completed,R. Singh
+ORD00354,2025-04-28,CUST0083,Store,Credit Card,Completed,J. Kim
+ORD00355,2025-01-03,CUST0034,Online,Credit Card,Completed,J. Kim
+ORD00356,2025-05-03,CUST0097,Store,Credit Card,Completed,S. Patel
+ORD00357,2025-02-19,CUST0087,Online,Credit Card,Completed,S. Patel
+ORD00358,2025-01-12,CUST0055,Online,Gift Card,Completed,A. Lee
+ORD00359,2025-02-23,CUST0092,Store,Credit Card,Returned,A. Lee
+ORD00360,2025-05-13,CUST0032,Store,PayPal,Completed,J. Kim
+ORD00361,2025-02-26,CUST0050,Online,Credit Card,Completed,J. Kim
+ORD00362,2025-05-25,CUST0007,Online,Credit Card,Completed,A. Lee
+ORD00363,2025-04-22,CUST0093,Online,Credit Card,Completed,A. Lee
+ORD00364,2025-02-16,CUST0008,Online,Credit Card,Completed,M. Chen
+ORD00365,2025-05-31,CUST0065,Store,Credit Card,Completed,M. Chen
+ORD00366,2025-03-26,CUST0057,Online,PayPal,Completed,A. Lee
+ORD00367,2025-05-22,CUST0067,Online,Credit Card,Completed,M. Chen
+ORD00368,2025-03-07,CUST0088,Online,Debit Card,Completed,R. Singh
+ORD00369,2025-03-16,CUST0087,Online,Credit Card,Completed,J. Kim
+ORD00370,2025-06-28,CUST0059,Online,Credit Card,Completed,J. Kim
+ORD00371,2025-04-13,CUST0072,Online,Credit Card,Completed,A. Lee
+ORD00372,2025-06-15,CUST0054,Online,Debit Card,Completed,S. Patel
+ORD00373,2025-02-07,CUST0067,Online,Credit Card,Completed,A. Lee
+ORD00374,2025-02-19,CUST0051,Store,Credit Card,Returned,M. Chen
+ORD00375,2025-04-08,CUST0097,Online,Debit Card,Completed,S. Patel
+ORD00376,2025-03-23,CUST0092,Partner,Credit Card,Completed,M. Chen
+ORD00377,2025-01-30,CUST0008,Online,Credit Card,Completed,R. Singh
+ORD00378,2025-03-20,CUST0034,Store,Credit Card,Completed,M. Chen
+ORD00379,2025-04-01,CUST0035,Store,PayPal,Completed,R. Singh
+ORD00380,2025-06-28,CUST0096,Store,Debit Card,Completed,R. Singh
+ORD00381,2025-02-21,CUST0088,Store,Credit Card,Completed,M. Chen
+ORD00382,2025-06-15,CUST0078,Online,Credit Card,Completed,M. Chen
+ORD00383,2025-03-20,CUST0032,Online,Gift Card,Completed,R. Singh
+ORD00384,2025-01-30,CUST0046,Online,Debit Card,Completed,S. Patel
+ORD00385,2025-04-16,CUST0016,Store,Credit Card,Completed,R. Singh
+ORD00386,2025-02-20,CUST0068,Online,PayPal,Completed,J. Kim
+ORD00387,2025-03-22,CUST0037,Online,Credit Card,Completed,R. Singh
+ORD00388,2025-05-13,CUST0054,Store,Credit Card,Completed,S. Patel
+ORD00389,2025-01-29,CUST0085,Store,Debit Card,Completed,J. Kim
+ORD00390,2025-05-12,CUST0014,Store,Credit Card,Completed,A. Lee
+ORD00391,2025-05-18,CUST0095,Store,Gift Card,Completed,A. Lee
+ORD00392,2025-05-25,CUST0055,Partner,Debit Card,Cancelled,S. Patel
+ORD00393,2025-03-15,CUST0048,Online,Debit Card,Completed,R. Singh
+ORD00394,2025-01-17,CUST0082,Online,Credit Card,Completed,M. Chen
+ORD00395,2025-03-25,CUST0007,Online,Credit Card,Completed,S. Patel
+ORD00396,2025-03-10,CUST0074,Online,Credit Card,Completed,J. Kim
+ORD00397,2025-02-03,CUST0007,Store,Debit Card,Completed,J. Kim
+ORD00398,2025-01-06,CUST0033,Online,Credit Card,Completed,A. Lee
+ORD00399,2025-02-22,CUST0023,Store,Credit Card,Returned,J. Kim
+ORD00400,2025-05-06,CUST0085,Online,Debit Card,Completed,S. Patel
+ORD00401,2025-02-12,CUST0019,Store,Credit Card,Completed,J. Kim
+ORD00402,2025-04-25,CUST0019,Store,Debit Card,Completed,S. Patel
+ORD00403,2025-04-21,CUST0036,Online,Credit Card,Completed,M. Chen
+ORD00404,2025-05-31,CUST0029,Online,Gift Card,Completed,A. Lee
+ORD00405,2025-03-21,CUST0060,Online,Credit Card,Completed,J. Kim
+ORD00406,2025-04-05,CUST0082,Online,Credit Card,Completed,S. Patel
+ORD00407,2025-04-28,CUST0002,Online,Credit Card,Completed,R. Singh
+ORD00408,2025-05-24,CUST0001,Online,Credit Card,Completed,A. Lee
+ORD00409,2025-01-08,CUST0047,Online,Debit Card,Completed,M. Chen
+ORD00410,2025-05-12,CUST0069,Store,Debit Card,Completed,S. Patel
+ORD00411,2025-04-14,CUST0020,Store,Debit Card,Completed,M. Chen
+ORD00412,2025-05-12,CUST0011,Store,Credit Card,Completed,M. Chen
+ORD00413,2025-01-25,CUST0002,Online,Credit Card,Completed,J. Kim
+ORD00414,2025-04-06,CUST0067,Store,Credit Card,Completed,J. Kim
+ORD00415,2025-06-04,CUST0087,Online,Debit Card,Completed,S. Patel
+ORD00416,2025-04-03,CUST0012,Online,PayPal,Completed,R. Singh
+ORD00417,2025-06-09,CUST0020,Store,Credit Card,Completed,S. Patel
+ORD00418,2025-06-27,CUST0005,Online,Credit Card,Completed,R. Singh
+ORD00419,2025-03-02,CUST0037,Store,Debit Card,Completed,M. Chen
+ORD00420,2025-05-02,CUST0038,Store,PayPal,Completed,A. Lee
+ORD00421,2025-02-20,CUST0094,Online,Debit Card,Completed,S. Patel
+ORD00422,2025-05-27,CUST0009,Online,PayPal,Completed,S. Patel
+ORD00423,2025-01-21,CUST0098,Online,Credit Card,Completed,R. Singh
+ORD00424,2025-01-05,CUST0053,Store,Credit Card,Completed,M. Chen
+ORD00425,2025-04-02,CUST0044,Online,PayPal,Completed,M. Chen
+ORD00426,2025-06-19,CUST0099,Online,Debit Card,Completed,R. Singh
+ORD00427,2025-03-02,CUST0086,Online,Credit Card,Completed,M. Chen
+ORD00428,2025-01-22,CUST0024,Store,Debit Card,Completed,J. Kim
+ORD00429,2025-05-29,CUST0081,Online,PayPal,Returned,A. Lee
+ORD00430,2025-03-11,CUST0074,Online,Debit Card,Completed,S. Patel
+ORD00431,2025-01-01,CUST0030,Store,Debit Card,Completed,A. Lee
+ORD00432,2025-05-13,CUST0059,Partner,Credit Card,Completed,S. Patel
+ORD00433,2025-01-12,CUST0087,Online,Credit Card,Completed,J. Kim
+ORD00434,2025-03-31,CUST0096,Online,Credit Card,Completed,M. Chen
+ORD00435,2025-02-15,CUST0081,Online,PayPal,Completed,R. Singh
+ORD00436,2025-02-03,CUST0081,Store,PayPal,Completed,J. Kim
+ORD00437,2025-06-26,CUST0014,Online,PayPal,Completed,A. Lee
+ORD00438,2025-03-19,CUST0009,Online,Credit Card,Completed,R. Singh
+ORD00439,2025-02-14,CUST0040,Store,Debit Card,Completed,M. Chen
+ORD00440,2025-06-04,CUST0066,Store,Debit Card,Completed,J. Kim
+ORD00441,2025-03-14,CUST0025,Online,Debit Card,Completed,R. Singh
+ORD00442,2025-01-26,CUST0073,Store,Debit Card,Completed,J. Kim
+ORD00443,2025-02-16,CUST0022,Store,PayPal,Completed,J. Kim
+ORD00444,2025-05-01,CUST0004,Online,Credit Card,Completed,M. Chen
+ORD00445,2025-02-25,CUST0026,Online,Credit Card,Cancelled,S. Patel
+ORD00446,2025-04-04,CUST0058,Partner,Credit Card,Completed,R. Singh
+ORD00447,2025-04-17,CUST0029,Online,Credit Card,Cancelled,M. Chen
+ORD00448,2025-03-04,CUST0098,Online,Debit Card,Completed,J. Kim
+ORD00449,2025-02-17,CUST0087,Online,Debit Card,Completed,M. Chen
+ORD00450,2025-03-02,CUST0037,Store,Credit Card,Completed,S. Patel
+ORD00451,2025-03-22,CUST0075,Online,Credit Card,Completed,R. Singh
+ORD00452,2025-01-26,CUST0070,Online,Debit Card,Returned,S. Patel
+ORD00453,2025-02-05,CUST0018,Online,Credit Card,Completed,A. Lee
+ORD00454,2025-01-01,CUST0085,Online,Credit Card,Completed,R. Singh
+ORD00455,2025-01-08,CUST0042,Store,Credit Card,Completed,S. Patel
+ORD00456,2025-04-23,CUST0100,Store,Credit Card,Completed,J. Kim
+ORD00457,2025-04-09,CUST0041,Online,Credit Card,Completed,R. Singh
+ORD00458,2025-06-29,CUST0038,Online,Credit Card,Completed,R. Singh
+ORD00459,2025-02-16,CUST0034,Store,Credit Card,Completed,M. Chen
+ORD00460,2025-05-07,CUST0017,Online,PayPal,Completed,J. Kim
+ORD00461,2025-02-25,CUST0037,Online,Credit Card,Completed,A. Lee
+ORD00462,2025-01-14,CUST0025,Partner,Debit Card,Completed,S. Patel
+ORD00463,2025-01-28,CUST0076,Store,Credit Card,Completed,M. Chen
+ORD00464,2025-03-19,CUST0087,Online,Credit Card,Cancelled,S. Patel
+ORD00465,2025-05-10,CUST0086,Online,Debit Card,Completed,A. Lee
+ORD00466,2025-04-19,CUST0085,Online,Credit Card,Completed,A. Lee
+ORD00467,2025-06-03,CUST0027,Online,Credit Card,Completed,R. Singh
+ORD00468,2025-01-14,CUST0057,Online,Debit Card,Completed,A. Lee
+ORD00469,2025-02-25,CUST0031,Online,Debit Card,Completed,S. Patel
+ORD00470,2025-04-25,CUST0006,Online,Credit Card,Cancelled,J. Kim
+ORD00471,2025-01-07,CUST0091,Partner,Credit Card,Completed,J. Kim
+ORD00472,2025-01-03,CUST0040,Store,Debit Card,Cancelled,R. Singh
+ORD00473,2025-04-21,CUST0098,Online,Credit Card,Completed,S. Patel
+ORD00474,2025-05-31,CUST0012,Online,Debit Card,Completed,S. Patel
+ORD00475,2025-04-17,CUST0053,Store,Debit Card,Completed,A. Lee
+ORD00476,2025-01-18,CUST0071,Online,Gift Card,Completed,S. Patel
+ORD00477,2025-02-07,CUST0010,Online,Credit Card,Completed,M. Chen
+ORD00478,2025-04-25,CUST0045,Partner,PayPal,Completed,A. Lee
+ORD00479,2025-01-15,CUST0017,Online,Credit Card,Completed,M. Chen
+ORD00480,2025-04-29,CUST0026,Store,Credit Card,Completed,R. Singh
+ORD00481,2025-01-28,CUST0085,Partner,Credit Card,Completed,J. Kim
+ORD00482,2025-02-08,CUST0092,Online,Debit Card,Completed,R. Singh
+ORD00483,2025-01-17,CUST0062,Online,Credit Card,Completed,J. Kim
+ORD00484,2025-03-27,CUST0046,Online,Credit Card,Completed,R. Singh
+ORD00485,2025-05-06,CUST0064,Store,Credit Card,Completed,S. Patel
+ORD00486,2025-02-13,CUST0002,Store,PayPal,Completed,M. Chen
+ORD00487,2025-01-25,CUST0054,Store,Debit Card,Completed,J. Kim
+ORD00488,2025-05-25,CUST0065,Online,Debit Card,Completed,A. Lee
+ORD00489,2025-01-13,CUST0051,Store,Credit Card,Cancelled,M. Chen
+ORD00490,2025-01-25,CUST0053,Partner,Credit Card,Completed,A. Lee
+ORD00491,2025-03-09,CUST0036,Store,Debit Card,Completed,M. Chen
+ORD00492,2025-05-18,CUST0026,Partner,Credit Card,Completed,M. Chen
+ORD00493,2025-03-08,CUST0029,Store,Credit Card,Completed,R. Singh
+ORD00494,2025-04-19,CUST0021,Store,Debit Card,Completed,J. Kim
+ORD00495,2025-05-26,CUST0011,Store,Gift Card,Completed,J. Kim
+ORD00496,2025-04-21,CUST0040,Online,Debit Card,Completed,M. Chen
+ORD00497,2025-04-21,CUST0011,Online,Debit Card,Completed,S. Patel
+ORD00498,2025-02-03,CUST0036,Store,Gift Card,Completed,S. Patel
+ORD00499,2025-04-21,CUST0059,Online,Credit Card,Completed,A. Lee
+ORD00500,2025-01-08,CUST0039,Store,Debit Card,Completed,A. Lee

@@ -1,0 +1,101 @@
+CustomerID,CustomerName,CustomerSegment,Province,City,SignupDate
+CUST0001,Customer 1,Consumer,Ontario,Calgary,2023-01-27
+CUST0002,Customer 2,Small Business,Quebec,Winnipeg,2023-08-14
+CUST0003,Customer 3,Corporate,Manitoba,Ottawa,2023-10-04
+CUST0004,Customer 4,Corporate,Quebec,Calgary,2025-03-08
+CUST0005,Customer 5,Consumer,Nova Scotia,Montreal,2024-08-31
+CUST0006,Customer 6,Consumer,Manitoba,Montreal,2023-10-11
+CUST0007,Customer 7,Consumer,Manitoba,Calgary,2024-04-25
+CUST0008,Customer 8,Small Business,Alberta,Montreal,2024-03-28
+CUST0009,Customer 9,Corporate,Manitoba,Calgary,2025-03-26
+CUST0010,Customer 10,Corporate,Quebec,Vancouver,2024-10-20
+CUST0011,Customer 11,Consumer,Manitoba,Calgary,2024-05-30
+CUST0012,Customer 12,Small Business,Alberta,Halifax,2024-06-30
+CUST0013,Customer 13,Small Business,Alberta,Calgary,2023-07-11
+CUST0014,Customer 14,Consumer,Nova Scotia,Montreal,2023-02-18
+CUST0015,Customer 15,Consumer,Quebec,Halifax,2024-05-26
+CUST0016,Customer 16,Consumer,British Columbia,Montreal,2023-01-17
+CUST0017,Customer 17,Consumer,British Columbia,Toronto,2023-06-21
+CUST0018,Customer 18,Consumer,Manitoba,Toronto,2023-08-08
+CUST0019,Customer 19,Consumer,Nova Scotia,Halifax,2023-06-07
+CUST0020,Customer 20,Consumer,Ontario,Vancouver,2024-04-21
+CUST0021,Customer 21,Corporate,Manitoba,Toronto,2023-02-15
+CUST0022,Customer 22,Consumer,Nova Scotia,Calgary,2024-01-08
+CUST0023,Customer 23,Consumer,Quebec,Montreal,2024-06-01
+CUST0024,Customer 24,Consumer,Quebec,Toronto,2023-04-09
+CUST0025,Customer 25,Consumer,Quebec,Toronto,2025-01-14
+CUST0026,Customer 26,Corporate,Quebec,Vancouver,2023-02-06
+CUST0027,Customer 27,Consumer,Quebec,Halifax,2023-10-07
+CUST0028,Customer 28,Consumer,Nova Scotia,Halifax,2023-12-15
+CUST0029,Customer 29,Corporate,Nova Scotia,Winnipeg,2024-05-11
+CUST0030,Customer 30,Consumer,Alberta,Vancouver,2023-10-29
+CUST0031,Customer 31,Corporate,British Columbia,Calgary,2023-06-30
+CUST0032,Customer 32,Consumer,Quebec,Halifax,2024-08-29
+CUST0033,Customer 33,Consumer,Ontario,Montreal,2023-04-09
+CUST0034,Customer 34,Small Business,Nova Scotia,Vancouver,2024-11-30
+CUST0035,Customer 35,Small Business,Ontario,Toronto,2023-04-26
+CUST0036,Customer 36,Small Business,Ontario,Montreal,2023-07-10
+CUST0037,Customer 37,Consumer,Ontario,Montreal,2023-09-10
+CUST0038,Customer 38,Consumer,Alberta,Toronto,2023-06-10
+CUST0039,Customer 39,Corporate,Nova Scotia,Vancouver,2023-09-13
+CUST0040,Customer 40,Consumer,Ontario,Toronto,2023-11-19
+CUST0041,Customer 41,Consumer,Quebec,Winnipeg,2023-05-08
+CUST0042,Customer 42,Consumer,Manitoba,Montreal,2023-01-18
+CUST0043,Customer 43,Consumer,Ontario,Ottawa,2025-03-03
+CUST0044,Customer 44,Small Business,Alberta,Ottawa,2025-01-04
+CUST0045,Customer 45,Consumer,Nova Scotia,Calgary,2024-07-19
+CUST0046,Customer 46,Corporate,Alberta,Halifax,2024-07-23
+CUST0047,Customer 47,Consumer,Ontario,Toronto,2023-11-19
+CUST0048,Customer 48,Consumer,Nova Scotia,Toronto,2024-11-16
+CUST0049,Customer 49,Consumer,Manitoba,Calgary,2025-03-02
+CUST0050,Customer 50,Consumer,Ontario,Calgary,2024-09-17
+CUST0051,Customer 51,Small Business,Alberta,Calgary,2023-10-15
+CUST0052,Customer 52,Corporate,British Columbia,Montreal,2024-10-24
+CUST0053,Customer 53,Small Business,Quebec,Winnipeg,2024-09-30
+CUST0054,Customer 54,Small Business,Alberta,Toronto,2023-06-04
+CUST0055,Customer 55,Corporate,Nova Scotia,Montreal,2024-05-04
+CUST0056,Customer 56,Small Business,Ontario,Calgary,2024-01-21
+CUST0057,Customer 57,Consumer,Quebec,Toronto,2025-02-23
+CUST0058,Customer 58,Consumer,Ontario,Montreal,2023-04-14
+CUST0059,Customer 59,Consumer,Nova Scotia,Winnipeg,2024-01-28
+CUST0060,Customer 60,Consumer,Ontario,Montreal,2025-03-21
+CUST0061,Customer 61,Consumer,British Columbia,Winnipeg,2023-09-03
+CUST0062,Customer 62,Consumer,Quebec,Calgary,2023-06-25
+CUST0063,Customer 63,Small Business,Quebec,Winnipeg,2023-02-08
+CUST0064,Customer 64,Consumer,Nova Scotia,Toronto,2024-04-21
+CUST0065,Customer 65,Consumer,British Columbia,Calgary,2024-11-12
+CUST0066,Customer 66,Consumer,Alberta,Toronto,2025-01-28
+CUST0067,Customer 67,Consumer,Ontario,Ottawa,2024-06-21
+CUST0068,Customer 68,Small Business,Manitoba,Vancouver,2025-03-28
+CUST0069,Customer 69,Consumer,Ontario,Winnipeg,2024-02-12
+CUST0070,Customer 70,Small Business,Ontario,Vancouver,2024-06-08
+CUST0071,Customer 71,Corporate,Alberta,Vancouver,2024-05-20
+CUST0072,Customer 72,Consumer,Ontario,Winnipeg,2023-02-05
+CUST0073,Customer 73,Consumer,British Columbia,Calgary,2024-11-15
+CUST0074,Customer 74,Small Business,British Columbia,Ottawa,2023-01-20
+CUST0075,Customer 75,Corporate,Quebec,Toronto,2023-11-17
+CUST0076,Customer 76,Corporate,Nova Scotia,Montreal,2025-02-14
+CUST0077,Customer 77,Corporate,Manitoba,Toronto,2024-05-26
+CUST0078,Customer 78,Consumer,Ontario,Montreal,2024-02-04
+CUST0079,Customer 79,Consumer,Ontario,Toronto,2024-10-15
+CUST0080,Customer 80,Consumer,Alberta,Winnipeg,2024-04-15
+CUST0081,Customer 81,Small Business,Nova Scotia,Ottawa,2023-05-23
+CUST0082,Customer 82,Corporate,British Columbia,Montreal,2023-04-02
+CUST0083,Customer 83,Consumer,Manitoba,Halifax,2023-12-20
+CUST0084,Customer 84,Consumer,Quebec,Calgary,2025-03-10
+CUST0085,Customer 85,Consumer,British Columbia,Toronto,2024-12-27
+CUST0086,Customer 86,Consumer,Nova Scotia,Toronto,2023-02-20
+CUST0087,Customer 87,Corporate,Quebec,Montreal,2024-10-26
+CUST0088,Customer 88,Corporate,Alberta,Calgary,2024-11-28
+CUST0089,Customer 89,Small Business,Alberta,Calgary,2024-07-28
+CUST0090,Customer 90,Consumer,Ontario,Winnipeg,2023-07-09
+CUST0091,Customer 91,Consumer,Nova Scotia,Halifax,2023-05-05
+CUST0092,Customer 92,Corporate,Manitoba,Winnipeg,2023-05-30
+CUST0093,Customer 93,Corporate,Quebec,Winnipeg,2023-11-10
+CUST0094,Customer 94,Corporate,British Columbia,Winnipeg,2024-07-23
+CUST0095,Customer 95,Corporate,Nova Scotia,Winnipeg,2023-12-08
+CUST0096,Customer 96,Consumer,Nova Scotia,Winnipeg,2023-11-01
+CUST0097,Customer 97,Consumer,Alberta,Ottawa,2024-11-22
+CUST0098,Customer 98,Consumer,Ontario,Calgary,2024-11-12
+CUST0099,Customer 99,Consumer,Ontario,Winnipeg,2025-02-21
+CUST0100,Customer 100,Consumer,Quebec,Calgary,2023-02-23

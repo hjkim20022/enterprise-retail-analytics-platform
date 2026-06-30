@@ -1,0 +1,13 @@
+ProductID,ProductName,Category,SubCategory,ListPrice,UnitCost
+PROD001,Laptop Pro 14,Electronics,Laptops,1299.0,920.0
+PROD002,Wireless Mouse,Electronics,Accessories,34.99,15.0
+PROD003,USB-C Docking Station,Electronics,Accessories,189.0,110.0
+PROD004,Office Chair,Furniture,Office,249.0,140.0
+PROD005,Standing Desk,Furniture,Office,599.0,380.0
+PROD006,Coffee Maker,Home,Kitchen,129.0,75.0
+PROD007,Air Fryer,Home,Kitchen,159.0,95.0
+PROD008,Yoga Mat,Sports,Fitness,39.0,18.0
+PROD009,Running Shoes,Sports,Footwear,119.0,65.0
+PROD010,Backpack,Accessories,Bags,79.0,38.0
+PROD011,Desk Lamp,Home,Lighting,49.0,22.0
+PROD012,Monitor 27 inch,Electronics,Monitors,329.0,210.0
