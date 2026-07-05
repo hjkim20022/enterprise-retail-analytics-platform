@@ -3,11 +3,12 @@ End-to-end Retail Analytics Platform using Azure Data Factory, Microsoft Fabric,
 
 # Enterprise Retail Analytics Platform
 
-End-to-end retail analytics project using Azure Data Factory, Azure Blob Storage, Microsoft Fabric, PySpark, Medallion Architecture, and Power BI.
+End-to-end Retail Analytics Platform built using Azure Data Factory, Azure Blob Storage, Microsoft Fabric, Lakehouse, PySpark, Medallion Architecture, Semantic Model, and Power BI.
 
 ## Project Overview
 
-This project demonstrates a metadata-driven data ingestion pipeline for a retail analytics platform. Azure Data Factory is used to orchestrate ingestion of multiple CSV files from Azure Blob Storage Landing into a Bronze container using Lookup, ForEach, Copy Data activities, and parameterized datasets.
+This project demonstrates a production-style retail analytics platform that ingests multiple retail datasets using Azure Data Factory, transforms the data using Microsoft Fabric notebooks, implements the Medallion Architecture (Bronze → Silver → Gold), and delivers executive business insights through an interactive Power BI dashboard.
+
 
 ## Solution Architecture 
 
