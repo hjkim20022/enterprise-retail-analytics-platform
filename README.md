@@ -9,30 +9,46 @@ End-to-end Retail Analytics Platform built using Azure Data Factory, Azure Blob 
 
 This project demonstrates a production-style retail analytics platform that ingests multiple retail datasets using Azure Data Factory, transforms the data using Microsoft Fabric notebooks, implements the Medallion Architecture (Bronze → Silver → Gold), and delivers executive business insights through an interactive Power BI dashboard.
 
-
-## Solution Architecture 
-
-Azure Blob Storage Landing  
-→ Azure Data Factory  
-→ Azure Blob Storage Bronze  
-→ Microsoft Fabric Lakehouse  
-→ Silver and Gold Tables  
-→ Power BI Dashboard
-
 ## Solution Architecture
 
+```
+Retail CSV Files
+        │
+        ▼
+Azure Blob Storage (Landing)
+        │
+        ▼
+Azure Data Factory
+(Lookup + ForEach + Copy Data)
+        │
+        ▼
+Azure Blob Storage (Bronze)
+        │
+        ▼
+Microsoft Fabric Lakehouse
+        │
+        ▼
+Bronze Delta Tables
+        │
+        ▼
+Silver Layer (PySpark Transformations)
+        │
+        ▼
+Gold Layer (Business KPIs)
+        │
+        ▼
+Semantic Model
+        │
+        ▼
+Power BI Executive Dashboard
+        │
+        ▼
+Business Users
+```
+
+### Architecture Diagram
+
 ![Architecture](architecture/retail_analytics_architecture.png)
-
-## Completed So Far
-
-- Created Azure Resource Group, Storage Account, and Blob containers.
-- Uploaded six retail CSV source files.
-- Built a metadata-driven Azure Data Factory pipeline.
-- Used `file_list.csv` as a control file.
-- Configured Lookup activity to read all file names.
-- Configured ForEach activity to loop through the file list.
-- Used parameterized datasets with `@item().FileName`.
-- Successfully copied all six files from Landing to Bronze.
 
 ## Technologies Used
 
