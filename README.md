@@ -48,7 +48,9 @@ Business Users
 
 ### Architecture Diagram
 
-![Architecture](architecture/retail_analytics_architecture.png)
+<p align="center">
+  <img src="architecture/retail_analytics_architecture.png" width="1000">
+</p>
 
 ## Technologies Used
 
