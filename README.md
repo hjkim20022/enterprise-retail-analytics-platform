@@ -9,6 +9,24 @@ End-to-end Retail Analytics Platform built using Azure Data Factory, Azure Blob 
 
 This project demonstrates a production-style retail analytics platform that ingests multiple retail datasets using Azure Data Factory, transforms the data using Microsoft Fabric notebooks, implements the Medallion Architecture (Bronze → Silver → Gold), and delivers executive business insights through an interactive Power BI dashboard.
 
+
+## Project Status
+
+This project delivers a complete end-to-end retail analytics platform built with Azure Data Factory, Azure Blob Storage, Microsoft Fabric, PySpark, Medallion Architecture, and Power BI.
+
+### Completed Components
+
+- Azure Blob Storage (Landing & Bronze)
+- Azure Data Factory metadata-driven ingestion
+- Microsoft Fabric Lakehouse
+- Bronze Delta Tables
+- Silver Transformation Layer
+- Gold Business KPI Tables
+- Microsoft Fabric ETL Pipeline
+- Semantic Model
+- Executive Power BI Dashboard
+
+
 ## Solution Architecture
 
 ```
@@ -86,41 +104,6 @@ The project uses six retail CSV files:
 - sales_targets.csv
 
 
-## Azure Data Factory Pipeline
-
-The ingestion pipeline uses:
-
-- `Lookup_File_List`
-- `ForEach_File`
-- `Copy_Landing_To_Bronze`
-- `DS_Landing_CSV`
-- `DS_Bronze_CSV`
-
-## Screenshots
-
-### Pipeline Overview
-![Pipeline Overview](adf/screenshots/01_pipeline_overview.png)
-
-
-### Lookup Activity
-![Lookup Activity](adf/screenshots/02_lookup_activity.png)
-
-
-### ForEach Settings
-![ForEach Settings](adf/screenshots/03_foreach_settings.png)
-
-
-### Copy Source
-![Copy Source](adf/screenshots/04_copy_source.png)
-
-
-### Copy Sink
-![Copy Sink](adf/screenshots/05_copy_sink.png)
-
-
-### Pipeline Success
-![Pipeline Success](adf/screenshots/06_pipeline_success.png)
-
 
 ## Azure Data Factory Pipeline
 
@@ -172,7 +155,6 @@ The ingestion pipeline uses:
 
 
 
-
 ## Microsoft Fabric
 
 ### Fabric ETL Pipeline
@@ -187,13 +169,17 @@ The pipeline successfully loads raw retail data into Bronze Delta tables, transf
 
 ### Fabric Pipeline
 
-![Fabric Pipeline](fabric/screenshots/fabric_pipeline_success.png)
+<p align="center">
+  <img src="fabric/screenshots/fabric_pipeline_success.png" width="850">
+</p>
 
 ### Lakehouse Tables
 
 The Lakehouse implements a Medallion Architecture containing Bronze, Silver, and Gold Delta tables used for downstream analytics and reporting.
 
-![Lakehouse Tables](fabric/screenshots/lakehouse_tables.png)
+<p align="center">
+  <img src="fabric/screenshots/lakehouse_tables.png" width="600">
+</p>
 
 
 # Power BI Dashboard
@@ -223,24 +209,9 @@ The final reporting layer of the solution is built using Microsoft Power BI conn
 
 ### Dashboard Screenshot
 
-![Retail Sales Dashboard](powerbi/screenshots/retail_sales_dashboard.png)
-
-
-## Project Status
-
-This project delivers a complete end-to-end retail analytics platform built with Azure Data Factory, Azure Blob Storage, Microsoft Fabric, PySpark, Medallion Architecture, and Power BI.
-
-### Completed Components
-
-- Azure Blob Storage (Landing & Bronze)
-- Azure Data Factory metadata-driven ingestion
-- Microsoft Fabric Lakehouse
-- Bronze Delta Tables
-- Silver Transformation Layer
-- Gold Business KPI Tables
-- Microsoft Fabric ETL Pipeline
-- Semantic Model
-- Executive Power BI Dashboard
+<p align="center">
+  <img src="powerbi/screenshots/retail_sales_dashboard.png" width="850">
+</p>
 
 
 ## Resume Highlight
