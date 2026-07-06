@@ -83,6 +83,7 @@ The project uses six retail CSV files:
 - returns.csv
 - sales_targets.csv
 
+
 ## Azure Data Factory Pipeline
 
 The ingestion pipeline uses:
@@ -117,6 +118,30 @@ The ingestion pipeline uses:
 
 ### Pipeline Success
 ![Pipeline Success](adf/screenshots/06_pipeline_success.png)
+
+
+## Microsoft Fabric
+
+### Fabric ETL Pipeline
+
+The Microsoft Fabric Data Pipeline orchestrates the complete ETL workflow by executing three PySpark notebooks sequentially:
+
+- 01_Bronze_To_Delta_Tables
+- 02_Silver_Transformations
+- 03_Gold_Business_KPIs
+
+The pipeline successfully loads raw retail data into Bronze Delta tables, transforms and cleans data in the Silver layer, and creates Gold business KPI tables for analytics.
+
+### Fabric Pipeline
+
+![Fabric Pipeline](fabric/screenshots/fabric_pipeline_success.png)
+
+### Lakehouse Tables
+
+The Lakehouse implements a Medallion Architecture containing Bronze, Silver, and Gold Delta tables used for downstream analytics and reporting.
+
+![Lakehouse Tables](fabric/screenshots/lakehouse_tables.png)
+
 
 ## Project Status
 
