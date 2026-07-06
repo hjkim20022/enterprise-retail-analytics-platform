@@ -122,6 +122,57 @@ The ingestion pipeline uses:
 ![Pipeline Success](adf/screenshots/06_pipeline_success.png)
 
 
+## Azure Data Factory Pipeline
+
+The ingestion pipeline uses:
+
+- `Lookup_File_List`
+- `ForEach_File`
+- `Copy_Landing_To_Bronze`
+- `DS_Landing_CSV`
+- `DS_Bronze_CSV`
+
+## Screenshots
+
+### Pipeline Overview
+
+<p align="center">
+  <img src="adf/screenshots/01_pipeline_overview.png" width="800">
+</p>
+
+### Lookup Activity
+
+<p align="center">
+  <img src="adf/screenshots/02_lookup_activity.png" width="650">
+</p>
+
+### ForEach Settings
+
+<p align="center">
+  <img src="adf/screenshots/03_foreach_settings.png" width="650">
+</p>
+
+### Copy Source
+
+<p align="center">
+  <img src="adf/screenshots/04_copy_source.png" width="650">
+</p>
+
+### Copy Sink
+
+<p align="center">
+  <img src="adf/screenshots/05_copy_sink.png" width="650">
+</p>
+
+### Pipeline Success
+
+<p align="center">
+  <img src="adf/screenshots/06_pipeline_success.png" width="800">
+</p>
+
+
+
+
 ## Microsoft Fabric
 
 ### Fabric ETL Pipeline
