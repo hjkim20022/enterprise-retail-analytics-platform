@@ -52,12 +52,24 @@ Business Users
 
 ## Technologies Used
 
-- Azure Data Factory
-- Azure Blob Storage
+### Cloud & Storage
 - Microsoft Fabric
+- Azure Data Factory (ADF)
+- Azure Blob Storage
+- Microsoft Fabric Lakehouse
+
+### Data Engineering
 - PySpark
-- Medallion Architecture
+- Delta Lake
+- Medallion Architecture (Bronze, Silver, Gold)
+- Microsoft Fabric Data Pipeline
+
+### Analytics & Reporting
+- Semantic Model
 - Power BI
+
+### Version Control
+- Git
 - GitHub
 
 ## Dataset
@@ -106,16 +118,22 @@ The ingestion pipeline uses:
 ### Pipeline Success
 ![Pipeline Success](adf/screenshots/06_pipeline_success.png)
 
+## Project Status
 
-## Next Phase
+This project demonstrates a complete end-to-end retail analytics platform built with Azure Data Factory, Microsoft Fabric, PySpark, Medallion Architecture, and Power BI.
 
-The next phase will extend the project into Microsoft Fabric:
+Completed components include:
 
-- Load Bronze data into Fabric Lakehouse.
-- Create Silver cleaned tables using PySpark.
-- Create Gold business KPI tables.
-- Build a Power BI executive dashboard.
+- Azure Blob Storage Landing & Bronze
+- Azure Data Factory metadata-driven ingestion
+- Microsoft Fabric Lakehouse
+- Bronze Delta Tables
+- Silver Transformations
+- Gold Business KPI Tables
+- Microsoft Fabric ETL Pipeline
+- Semantic Model
+- Executive Power BI Dashboard
 
 ## Resume Highlight
 
-Built a metadata-driven Azure Data Factory ingestion pipeline using Lookup, ForEach, Copy Data, parameterized datasets, and Azure Blob Storage to automate ingestion of multiple retail datasets into a Bronze data lake layer.
+Built an end-to-end Retail Analytics Platform using Azure Data Factory, Microsoft Fabric, PySpark, Delta Lake, Medallion Architecture, and Power BI. Developed metadata-driven ETL pipelines, Bronze/Silver/Gold data layers, a Semantic Model, and an executive analytics dashboard.
