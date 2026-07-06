@@ -175,19 +175,20 @@ The final reporting layer of the solution is built using Microsoft Power BI conn
 
 ## Project Status
 
-This project demonstrates a complete end-to-end retail analytics platform built with Azure Data Factory, Microsoft Fabric, PySpark, Medallion Architecture, and Power BI.
+This project delivers a complete end-to-end retail analytics platform built with Azure Data Factory, Azure Blob Storage, Microsoft Fabric, PySpark, Medallion Architecture, and Power BI.
 
-Completed components include:
+### Completed Components
 
-- Azure Blob Storage Landing & Bronze
+- Azure Blob Storage (Landing & Bronze)
 - Azure Data Factory metadata-driven ingestion
 - Microsoft Fabric Lakehouse
 - Bronze Delta Tables
-- Silver Transformations
+- Silver Transformation Layer
 - Gold Business KPI Tables
 - Microsoft Fabric ETL Pipeline
 - Semantic Model
 - Executive Power BI Dashboard
+
 
 ## Resume Highlight
 
