@@ -143,6 +143,36 @@ The Lakehouse implements a Medallion Architecture containing Bronze, Silver, and
 ![Lakehouse Tables](fabric/screenshots/lakehouse_tables.png)
 
 
+# Power BI Dashboard
+
+The final reporting layer of the solution is built using Microsoft Power BI connected to the Microsoft Fabric Semantic Model. The dashboard enables interactive analysis of retail sales performance and business KPIs.
+
+### Dashboard Features
+
+- Executive KPI Cards
+  - Total Revenue
+  - Total Orders
+  - Total Customers
+  - Average Order Value
+
+- Sales Analysis
+  - Revenue by Category
+  - Revenue by Province
+  - Monthly Revenue Trend
+
+- Customer Analysis
+  - Top 10 Customers by Revenue
+  - Customer Summary Table
+
+- Interactive Filters
+  - Province
+  - Customer Segment
+
+### Dashboard Screenshot
+
+![Retail Sales Dashboard](powerbi/screenshots/retail_sales_dashboard.png)
+
+
 ## Project Status
 
 This project demonstrates a complete end-to-end retail analytics platform built with Azure Data Factory, Microsoft Fabric, PySpark, Medallion Architecture, and Power BI.
