@@ -175,7 +175,7 @@ The pipeline successfully loads raw retail data into Bronze Delta tables, transf
 The Lakehouse implements a Medallion Architecture containing Bronze, Silver, and Gold Delta tables used for downstream analytics and reporting.
 
 <p align="center">
-  <img src="fabric/screenshots/lakehouse_tables.png" width="300">
+  <img src="fabric/screenshots/lakehouse_tables.png" width="400">
 </p>
 
 
