@@ -1,6 +1,3 @@
-# enterprise-retail-analytics-platform
-End-to-end Retail Analytics Platform using Azure Data Factory, Microsoft Fabric, PySpark, Medallion Architecture, and Power BI.
-
 # Enterprise Retail Analytics Platform
 
 End-to-end Retail Analytics Platform built using Azure Data Factory, Azure Blob Storage, Microsoft Fabric, Lakehouse, PySpark, Medallion Architecture, Semantic Model, and Power BI.
